@@ -44,7 +44,7 @@ Now your server is runnning into `http://localhost:3333`.
 #### `npm run dev`
 
 Runs the application in the development mode.\
-Open [http://localhost:3333](http://localhost:5173) to view it in the browser.
+Open [http://localhost:5173](http://localhost:5173) to view it in the browser.
 
 ### MOBILE
 #### `expo start`
